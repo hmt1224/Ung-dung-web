@@ -18,7 +18,7 @@
  body {
      background-color: var(--bg-color);
      color: var(--text-color);
-     display: flex;
+    
      min-height: 100vh;
  }
 
